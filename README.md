@@ -1,1 +1,1 @@
-# Training on swift with few exercices
+# Training on swift with few basic exercices.
